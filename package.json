@@ -15,11 +15,11 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "@efraxpc/jobberapplication",
+  "name": "@efraxpc/jobber-shared",
   "author": "Efrain Colmenare Guerrero",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/efraxpc/jobberapplication.git"
+    "url": "git+https://github.com/efraxpc/jobber-shared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
@@ -47,6 +47,7 @@
   },
   "devDependencies": {
     "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.27.4",
     "@babel/preset-env": "^7.24.3",
     "@babel/preset-typescript": "^7.24.1",
     "@types/express": "^4.17.21",
